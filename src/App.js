@@ -2,7 +2,8 @@ import React from 'react';
 import './App.css';
 
 var list = require('./quotes.json')
-console.log(list)
+// Pour voir le contenu des citations
+// console.log(list)
 
 function App() {
     return (
