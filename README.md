@@ -16,6 +16,9 @@ modification :
 * Modification de [App.js](src/App.js) pour importer le fichier json
 en constante dans celui-ci.
 
+# Pour tester
+Vous pouvez utiliser la commande `npm test` pour tester le bon fonctionnement de votre projet.
+
 # Exemple du projet terminer
 (Les citations change à chaque refresh)
 ![QuotesApp](exemple.png)
