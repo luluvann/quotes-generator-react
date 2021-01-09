@@ -4,6 +4,12 @@ Ce projet à pour but de vous faire construire une
 application React avec des components et l'utilisation
 de props pour envoyé des informations au components.
 
+# Instructions
+
+Cloner le projet dans votre environnement local.
+Ensuite, exécuté `npm install` pour faire l'installation de React pour le projet.
+Le projet peux ensuite être exécuté avec `npm start`.
+
 # But
 Vous devez créé une application qui va afficher
 3 citations trouvé de manière aléatoire à partir d'une
